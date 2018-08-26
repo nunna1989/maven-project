@@ -1,0 +1,5 @@
+/usr/java/jdk1.8.0_161/bin/java
+
+
+export JAVA_HOME=/usr/java/jdk1.8.0_161/bin/java
+export PATH=$PATH:/usr/java/jdk1.8.0_161/bin
